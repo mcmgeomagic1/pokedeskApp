@@ -18,4 +18,14 @@ This is a simple app which consumes the pokemon API and return its data. it allo
 ```Bash
   npm install
   npm start
+``` 
+
+---
+---
+
+### Build
+```Bash
+  npm install -g serve
+  npm run build
+  serve -s build
 ```
