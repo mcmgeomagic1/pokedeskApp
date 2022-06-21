@@ -1,8 +1,8 @@
-# SHOPPING CART APP
+# POKEDESX APP
 ## React web app
-This is a simple and basic shopping cart web App which basically can list all the products and allows you to add a product in the cart. it shows how many products you have added, its total price and a free shipping message when the total price is higher then R$10
+This is a simple app which consumes the pokemon API and return its data. it allow you to also do an instant search, filter through the data by type, order the list and so on
 
-![readme](Readme.png)
+![Read](Read.png)
 
 ### Technologies
 * React.js
